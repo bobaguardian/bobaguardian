@@ -1,6 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a SplittaBill, a Flask React application that helps you manage your shared bills and expenses with friends!
+- 🌱 I’m currently learning Docker
+- 💬 Ask me about ...
+- 😄 Pronouns: she/they
+- ⚡ Fun fact: I love boba, anime, and videogames!  Check out my Tabletop Quest and GoodMango Applications for some cool stuff I worked on!
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobaguardian&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
