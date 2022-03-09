@@ -1,7 +1,7 @@
 ### Hi, Vivian here 👋
 
 - 🔭 I’m currently working on BattleFit, a Flask React application that helps you keep track of your exercises and logs while battling and collecting mythical monsters and cryptids!
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Mobile Responsive Design
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I love boba, anime, and videogames!  Check out my Tabletop Quest, SplitaBill and GoodMango Applications for some cool stuff I worked on!
 
